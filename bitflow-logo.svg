@@ -1,0 +1,15 @@
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6a11cb" />
+      <stop offset="100%" stop-color="#2575fc" />
+    </linearGradient>
+  </defs>
+
+  <!-- Icon: B Shape -->
+  <path d="M10 10 C10 10, 25 10, 25 20 C25 30, 10 30, 10 30 C10 30, 25 30, 25 40 C25 50, 10 50, 10 50" 
+        stroke="url(#grad)" stroke-width="6" stroke-linecap="round" fill="none"/>
+
+  <!-- Text: Bitflow -->
+  <text x="40" y="38" font-family="Poppins, sans-serif" font-size="28" fill="#2D9CDB">Bitflow</text>
+</svg>
